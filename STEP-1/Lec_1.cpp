@@ -12,3 +12,4 @@ int main(){ //main function
   return 0;
 }
 
+// You cane use <bits/stdc++.h> to import all the files and all the c++ libraries in a single go

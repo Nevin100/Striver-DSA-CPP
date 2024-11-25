@@ -1,6 +1,6 @@
 //User Input/Output
 
-//g++ -o <name you want to give><name of the file> (g++ -0 1 Lec_1.cpp )
+//g++ -o <name you want to give><name of the file> (g++ -o 1 Lec_1.cpp )
 
 //1.) Skelton of C++:
 

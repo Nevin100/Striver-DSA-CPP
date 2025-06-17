@@ -1,6 +1,6 @@
 //Basic Maths : 
 
-// To extract individual digits go for : %10 to get last and subsequently %10 and again %10 ---> will give second last and so on!!
+// To extract the individual digits go for : %10 to get last and subsequently %10 and again %10 ---> will give second last and so on!!
 
 #include <iostream>
 using namespace std;

@@ -41,7 +41,7 @@ Whether it’s arrays, linked lists, trees, or graphs — everything will be cov
 
 ## 🌐 Connect with Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+- 💼 [LinkedIn](www.linkedin.com/in/nevinbali1012)
 - 📬 [TakeYouForward](https://takeuforward.org/profile/Nevin777)
 - ⭐ Drop a star if you’re on a similar path!
 

@@ -4,3 +4,6 @@
 //--> Execute : .\hello.exe
 
 // For all directories : #include <bits/stdc++.h>
+
+
+// lec : 4 -->  Armstrong Number : the sum of the cubes of its digits is equal to the number itself. Eg : 153 = 1^3 + 5^3 + 3^3

@@ -2,6 +2,7 @@
 
 // To extract the individual digits go for : %10 to get last and subsequently %10 and again %10 ---> will give second last and so on!!
 
+// Complete Concept :
 #include <iostream>
 using namespace std;
 

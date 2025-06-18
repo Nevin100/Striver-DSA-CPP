@@ -2,3 +2,5 @@
 // --> Command to compile: g++ -o hello hello.cpp
 
 //--> Execute : .\hello.exe
+
+// For all directories : #include <bits/stdc++.h>

@@ -2,7 +2,7 @@
 
 Welcome to my personal space where I’m diving deep into **Data Structures and Algorithms** using **C++**, guided by **Striver’s DSA A2Z Sheet**.
 
-This repository will serve as my structured log — solving DSA problems, writing clean C++ code, and staying consistent, one day at a time.
+This repository will serve as my structured log —  solving DSA problems, writing clean C++ code, and staying consistent, one day at a time.
 
 ---
 

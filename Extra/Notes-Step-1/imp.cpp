@@ -7,3 +7,7 @@
 
 
 // lec : 4 -->  Armstrong Number : the sum of the cubes of its digits is equal to the number itself. Eg : 153 = 1^3 + 5^3 + 3^3
+
+
+// in Hashing, max size for array is : 1e6 i.e 10^6 inside main and 1e7 i.e 10^7 outside main
+// so for number hashing we have some limit, we prefer unordered map firstly then map (if TLE occurs then map, else first choice is unorder map ans best/avgt case in mostly cases is O(1) and worst sometimes is : O(N))

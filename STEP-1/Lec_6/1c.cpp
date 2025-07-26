@@ -1,7 +1,5 @@
-// Hashing :
-// Check notes
+// Hashing of Numbers : This program counts the frequency of numbers in a hash map
 
-// Hashing of Numbers :
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -16,19 +14,20 @@ int main() {
     cin >> arr[i];
   }
   // Precompute : 
-  int hash[6] = {0};
+  map<int,int>mpp;
   for (int i = 0; i < n; i++) {
-    hash[arr[i]] += 1;
+    mpp[arr[i]]++;
   }
 
   int q;
+  cout << "Enter the number od queries :";
   cin >> q;
   while (q--) {
     int number;
     cout << "Enter the value of number :" ;
     cin >> number;
     // Fetch result
-    cout << hash[number] << endl;
+    cout << mpp[number] << endl;
   }
   return 0;
 }

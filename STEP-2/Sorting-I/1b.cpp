@@ -2,7 +2,7 @@
 
 // Steps :1 --> Push the maximum at the last by adjacent swaps.
 // Steps :2 --> keep doing and the right side array will be sorted.
-// Steps :3 --> Keep following until fisrt index as at first, the lement is smallest.
+// Steps :3 --> Keep following until fisrt index as at first, the element is smallest.
 
 //Time complexity : Best :O(N) and worst : O(N^2)
 #include <iostream>

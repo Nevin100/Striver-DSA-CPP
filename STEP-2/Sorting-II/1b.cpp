@@ -9,7 +9,7 @@
 
 #include <iostream>
 #include <vector>
-using namespace std;
+using namespace std; // isme swap function present hai
 
 // Partition function - puts pivot in correct place and returns index
 int partition(vector<int> &arr, int low, int high) {

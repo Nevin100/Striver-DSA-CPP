@@ -1,2 +1,0 @@
-// Q.) Find missing numbers :
-

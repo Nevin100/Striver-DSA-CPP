@@ -23,6 +23,35 @@ void getArray(vector<int>& nums, int n) {
     }
 }
 
+void dutchFlagAlgorithm(vector<int>& nums,int n){
+  int low = 0; int mid = 0;
+  int high = n - 1;
+
+  while(mid <= high){
+    if(nums[mid] == 0){
+      swap(nums[low], nums[mid]);
+      low++;
+      mid++;
+    }
+    
+    else if(nums[mid] == 2){
+      swap(nums[high], nums[mid]);
+      high--;
+      mid++;
+    }
+    
+    else if(nums[mid] == 1){
+      mid++;
+    }
+  }
+}
+
+void PrintArray(vector<int>& nums, int n){
+  for(int i = 0; i < n; i++){
+    cout << nums[i] << " ";
+  }
+}
+
 int main(){
   int n;
     cout << "Enter the size of array: ";
@@ -34,6 +63,10 @@ int main(){
 
     vector<int> arr(n);
     getArray(arr, n);
+
+    dutchFlagAlgorithm(arr,n)
+    cout <<"Sorted Array :" <<endl;
+    PrintArray(arr, n);
     
   return 0;
 }

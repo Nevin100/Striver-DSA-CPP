@@ -1,4 +1,4 @@
-<h1 align="center">🚀 100 Days of DSA with Striver | C++</h1>
+<h1 align="center">🚀  DSA with Striver in C++</h1>
 
 Welcome to my personal space where I’m diving deep into **Data Structures and Algorithms** using **C++**, guided by **Striver’s DSA A2Z Sheet**.
 
